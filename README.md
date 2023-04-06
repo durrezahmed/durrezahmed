@@ -1,11 +1,8 @@
 Hi 👋 My name is Durrez Ahmed
 =============================
 
-Web Developer
+DevOps, Cloud Computing
 -------------
-
-* 🌍  I'm based in India
-* 🧠  I'm learning Next JS
 
 ### Badges
 
